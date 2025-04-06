@@ -1,0 +1,29 @@
+{
+  "name": "Squat NFT",
+  "symbol": "SQAT",
+  "description": "30회 스쿼트 완료 기념 NFT",
+  "image": "https://raw.githubusercontent.com/Youngkwon-Lee/squat-nft-app/main/public/squat-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Fitness"
+    },
+    {
+      "trait_type": "Exercise",
+      "value": "Squat"
+    },
+    {
+      "trait_type": "Reps",
+      "value": "30"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Youngkwon-Lee/squat-nft-app/main/public/squat-nft.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+} 
